@@ -37,10 +37,13 @@ Task 2: ESP32 Run Algorithm
 1. Using Arduino IDE desktop APP
 Step 1:
 Download and launch Arduino IDE.
+
 Step 2
 Add esp32 package by going to [File > Preferences] and uploading this URL: https://dl.espressif.com/dl/package_esp32_index.json in the "Additional Boards Manager URLs" box.
+
 Step 3
 Install esp32 boards package by going to [Tools > Board: "Arduino Uno" Boards Manager] then searches for "ESP32" and install the package.
+
 Step 4
 Plugin the ESP32 into our device, and choose the board by going to [Tools > Board: "Arduino Uno" > ESP32 Arduino]
 
@@ -48,12 +51,15 @@ and select "WEMOS D1 MINI ESP32".
 
 Step 5
 Choose the Blink program by going to [File > Examples > 01 Basics] then select "Blink".
+
 Step 6
 Select the port by going to [Tools > Port] and choose the required port.
+
 Step 7
 For adjusting the frequency of the LED light, the delay values in the loop function must be changed as required.
 
 2. Using Arduino Web editor:
+
 In this case, first, the Arduino Create Agent must be downloaded and installed. The agent will provide:
 
 Recognize Arduino boards and other supported devices connected to your computer via USB;

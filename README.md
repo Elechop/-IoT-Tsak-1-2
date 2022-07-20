@@ -1,6 +1,6 @@
 # -IoT-Tsak-1-2
 IoT-Tsak-1-2
-Task 1: HTML page that provides Speech to Text in Arabic language using JavaScript.
+## Task 1: HTML page that provides Speech to Text in Arabic language using JavaScript.
 
 Task 2: The first Synchronous Mission; runing the ESP32 and Changing its blink frequency using the Arduino IDE Desktop App and Arduino Web editor.
 

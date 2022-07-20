@@ -5,6 +5,7 @@ IoT-Tsak-1-2
 ## Task 2: The first Synchronous Mission; runing the ESP32 and Changing its blink frequency using the Arduino IDE Desktop App and Arduino Web editor.
 
 Table of Contents
+
 Task 1: Speach to Text
 
 Task 2: ESP32 Run Algorithm
